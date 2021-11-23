@@ -1,3 +1,3 @@
 # git-lesson-arif
 Bu bizim ilk github dersimiz
-Merhaba deneme
+git deneme
